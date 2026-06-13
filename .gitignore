@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+keys/private_key.pem
+keys/encryption_key.key
